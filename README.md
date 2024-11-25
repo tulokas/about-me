@@ -9,10 +9,13 @@ Welcome to my GitHub Portfolio! 👋 Here, I showcase my skills, projects, and i
 
 ## 🛠️ Skill Set
 ### Programming Languages:
-- **Java**, **Python (Flask)**, **Kotlin**, **Go**, **React Native**, **C++**, **PHP**
+- **Java**, **Python (Flask)**, **Go**, **C++**, **PHP**
 
 ### Web Development:
 - **JavaScript**, **React.js**, **Node.js**, **TypeScript**, **jQuery**, **HTML**, **CSS**
+
+### Mobile Development:
+- **React Native**, **Kotlin**
 
 ### Databases:
 - **PostgreSQL**, **MySQL**, **Oracle**, **Firebase (NoSQL)**
